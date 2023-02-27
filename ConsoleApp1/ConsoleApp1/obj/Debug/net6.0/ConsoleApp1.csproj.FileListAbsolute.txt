@@ -1,0 +1,15 @@
+G:\Praktika1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+G:\Praktika1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+G:\Praktika1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+G:\Praktika1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+G:\Praktika1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+G:\Praktika1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+G:\Praktika1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Praktika1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\Praktika1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+G:\Praktika1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Praktika1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+G:\Praktika1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+G:\Praktika1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+G:\Praktika1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+G:\Praktika1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
